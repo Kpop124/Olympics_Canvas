@@ -1,0 +1,9 @@
+.body1{
+    background-image: url("https://www.nicepng.com/png/detail/2-28900_colorful-spiral-watercolor-android-wallpaper-abstract-art-1080p.png");
+    background-position: center;
+    background-size: cover;
+}
+#canvas1{
+    border-width:10px;
+    background-color:  rgba(240, 206, 212, 0.555)
+    }
